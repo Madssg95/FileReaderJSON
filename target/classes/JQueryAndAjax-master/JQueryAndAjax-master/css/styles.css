@@ -1,0 +1,17 @@
+
+body {
+  font-family: 'Roboto Condensed', Helvetica, sans-serif;
+  text-align: left;
+  font-size: 18px;
+  color: #303030; }
+
+.extend {
+  table-layout: fixed;
+  width: 100%
+}
+
+.small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
